@@ -130,25 +130,26 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ## Weekly Progress
 
-| Week | Topic | Status | Assignment | LinkedIn Post |
-|------|-------|--------|------------|---------------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | [View](./week-00-internet-and-networking/) | — |
-| 01 | Success Mindset | ⬜ Not Started | [View](./week-01-success-mindset/) | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | [View](./week-02-agentic-ai/) | — |
-| 03 | Linux for DevOps | ⬜ Not Started | [View](./week-03-linux-for-devops/) | — |
-| 04 | Bash Scripting | ⬜ Not Started | [View](./week-04-bash-scripting/) | — |
-| 05 | Git & GitHub | ⬜ Not Started | [View](./week-05-github/) | — |
-| 06 | DevOps Lifecycle & Agile | ⬜ Not Started | [View](./week-06-devops-lifecycle/) | — |
-| 07 | AWS Cloud | ⬜ Not Started | [View](./week-07-aws-cloud/) | — |
-| 08 | Azure Cloud | ⬜ Not Started | [View](./week-08-azure-cloud/) | — |
-| 09 | Terraform | ⬜ Not Started | [View](./week-09-terraform/) | — |
-| 10 | Ansible | ⬜ Not Started | [View](./week-10-ansible/) | — |
-| 11 | Azure DevOps (CI/CD) | ⬜ Not Started | [View](./week-11-azure-devops/) | — |
-| 12 | Docker | ⬜ Not Started | [View](./week-12-docker/) | — |
-| 13 | Kubernetes | ⬜ Not Started | [View](./week-13-kubernetes/) | — |
-| 14 | Final Project | ⬜ Not Started | [View](./week-14-final-project/) | — |
+| Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
+|------|-------|--------|------------|---------------|-----------|
+| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 09 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 10 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 11 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
+| 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
+| 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
+| 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed
+**Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ [Solved](link)
 
 ---
 
